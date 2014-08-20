@@ -1,0 +1,2 @@
+Helpshift.Xamarin.ios
+=====================

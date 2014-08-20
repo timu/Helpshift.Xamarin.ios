@@ -30,11 +30,11 @@
 		<key>Font size</key>
 		<string></string>
 		<key>Title color</key>
-		<string></string>
+		<string>ff0000</string>
 		<key>Bar button text color</key>
-		<string></string>
+		<string>00ff00</string>
 		<key>Background color</key>
-		<string></string>
+		<string>0000ff</string>
 		<key>Text shadow color (iOS 6)</key>
 		<string></string>
 		<key>Background image (iOS 6)</key>

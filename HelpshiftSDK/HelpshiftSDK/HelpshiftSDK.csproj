@@ -36,6 +36,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />
+    <Folder Include="Resources\HSLocalization\" />
+    <Folder Include="Resources\HSThemes\" />
   </ItemGroup>
   <ItemGroup>
     <ObjcBindingApiDefinition Include="ApiDefinition.cs" />
@@ -77,6 +79,19 @@
     <BundleResource Include="Resources\HSResources\HSTutorial%402x.png" />
     <BundleResource Include="Resources\HSResources\HSTutorialiPad.png" />
     <BundleResource Include="Resources\HSResources\HSTutorialiPad%402x.png" />
-    <BundleResource Include="Resources\HelpshiftConfig.plist" />
+    <BundleResource Include="Resources\HSLocalization\de.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\HSLocalization\en.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\HSLocalization\es.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\HSLocalization\fr.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\HSLocalization\it.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\HSLocalization\ja.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\HSLocalization\ko.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\HSLocalization\nl.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\HSLocalization\pt.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\HSLocalization\ru.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\HSLocalization\tr.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\HSLocalization\zh-Hans.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\HSThemes\HelpshiftConfig.plist" />
+    <BundleResource Include="Resources\HSThemes\HelpshiftConfigDark.plist" />
   </ItemGroup>
 </Project>

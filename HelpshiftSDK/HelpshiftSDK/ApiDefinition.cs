@@ -4,8 +4,9 @@ using MonoTouch.Foundation;
 using MonoTouch.ObjCRuntime;
 
 namespace HelpshiftSDK {
-	[BaseType (typeof (UIAlertViewDelegate))]
-	public partial interface Helpshift  {
+
+	[BaseType (typeof(NSObject))]
+	public partial interface Helpshift : IUIAlertViewDelegate {
 
 		[Export ("delegate", ArgumentSemantic.Retain)]
 		HelpshiftDelegate Delegate { get; set; }

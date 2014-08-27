@@ -91,7 +91,7 @@
     <BundleResource Include="Resources\HSLocalization\ru.lproj\HelpshiftLocalizable.strings" />
     <BundleResource Include="Resources\HSLocalization\tr.lproj\HelpshiftLocalizable.strings" />
     <BundleResource Include="Resources\HSLocalization\zh-Hans.lproj\HelpshiftLocalizable.strings" />
-    <BundleResource Include="Resources\HSThemes\HelpshiftConfig.plist" />
     <BundleResource Include="Resources\HSThemes\HelpshiftConfigDark.plist" />
+    <BundleResource Include="Resources\HelpshiftConfig.plist" />
   </ItemGroup>
 </Project>

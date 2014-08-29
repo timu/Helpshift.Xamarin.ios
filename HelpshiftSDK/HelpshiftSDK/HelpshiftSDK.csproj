@@ -36,8 +36,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />
-    <Folder Include="Resources\HSLocalization\" />
-    <Folder Include="Resources\HSThemes\" />
   </ItemGroup>
   <ItemGroup>
     <ObjcBindingApiDefinition Include="ApiDefinition.cs" />
@@ -55,43 +53,42 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\HSResources\HS-background-tile.png" />
-    <BundleResource Include="Resources\HSResources\HS-background-tile%402x.png" />
-    <BundleResource Include="Resources\HSResources\HS-camera-button.png" />
-    <BundleResource Include="Resources\HSResources\HS-camera-button%402x.png" />
-    <BundleResource Include="Resources\HSResources\HSChatBubbleBlue.png" />
-    <BundleResource Include="Resources\HSResources\HSChatBubbleBlue%402x.png" />
-    <BundleResource Include="Resources\HSResources\HSChatBubbleWhite.png" />
-    <BundleResource Include="Resources\HSResources\HSChatBubbleWhite%402x.png" />
-    <BundleResource Include="Resources\HSResources\HSConfirmBox.png" />
-    <BundleResource Include="Resources\HSResources\HSConfirmBox%402x.png" />
-    <BundleResource Include="Resources\HSResources\HS-delete-button.png" />
-    <BundleResource Include="Resources\HSResources\HS-delete-button%402x.png" />
-    <BundleResource Include="Resources\HSResources\HS-no-connection.png" />
-    <BundleResource Include="Resources\HSResources\HS-no-connection%402x.png" />
-    <BundleResource Include="Resources\HSResources\HS-powered-by-logo.png" />
-    <BundleResource Include="Resources\HSResources\HS-powered-by-logo%402x.png" />
-    <BundleResource Include="Resources\HSResources\HS-screenshot-error.png" />
-    <BundleResource Include="Resources\HSResources\HS-screenshot-error%402x.png" />
-    <BundleResource Include="Resources\HSResources\HS-section-header.png" />
-    <BundleResource Include="Resources\HSResources\HS-section-header%402x.png" />
-    <BundleResource Include="Resources\HSResources\HSTutorial.png" />
-    <BundleResource Include="Resources\HSResources\HSTutorial%402x.png" />
-    <BundleResource Include="Resources\HSResources\HSTutorialiPad.png" />
-    <BundleResource Include="Resources\HSResources\HSTutorialiPad%402x.png" />
-    <BundleResource Include="Resources\HSLocalization\de.lproj\HelpshiftLocalizable.strings" />
-    <BundleResource Include="Resources\HSLocalization\en.lproj\HelpshiftLocalizable.strings" />
-    <BundleResource Include="Resources\HSLocalization\es.lproj\HelpshiftLocalizable.strings" />
-    <BundleResource Include="Resources\HSLocalization\fr.lproj\HelpshiftLocalizable.strings" />
-    <BundleResource Include="Resources\HSLocalization\it.lproj\HelpshiftLocalizable.strings" />
-    <BundleResource Include="Resources\HSLocalization\ja.lproj\HelpshiftLocalizable.strings" />
-    <BundleResource Include="Resources\HSLocalization\ko.lproj\HelpshiftLocalizable.strings" />
-    <BundleResource Include="Resources\HSLocalization\nl.lproj\HelpshiftLocalizable.strings" />
-    <BundleResource Include="Resources\HSLocalization\pt.lproj\HelpshiftLocalizable.strings" />
-    <BundleResource Include="Resources\HSLocalization\ru.lproj\HelpshiftLocalizable.strings" />
-    <BundleResource Include="Resources\HSLocalization\tr.lproj\HelpshiftLocalizable.strings" />
-    <BundleResource Include="Resources\HSLocalization\zh-Hans.lproj\HelpshiftLocalizable.strings" />
-    <BundleResource Include="Resources\HSThemes\HelpshiftConfigDark.plist" />
+    <BundleResource Include="Resources\HS-background-tile.png" />
+    <BundleResource Include="Resources\HS-background-tile%402x.png" />
+    <BundleResource Include="Resources\HS-camera-button.png" />
+    <BundleResource Include="Resources\HS-camera-button%402x.png" />
+    <BundleResource Include="Resources\HS-delete-button.png" />
+    <BundleResource Include="Resources\HS-delete-button%402x.png" />
+    <BundleResource Include="Resources\HS-no-connection.png" />
+    <BundleResource Include="Resources\HS-no-connection%402x.png" />
+    <BundleResource Include="Resources\HS-powered-by-logo.png" />
+    <BundleResource Include="Resources\HS-powered-by-logo%402x.png" />
+    <BundleResource Include="Resources\HS-screenshot-error.png" />
+    <BundleResource Include="Resources\HS-screenshot-error%402x.png" />
+    <BundleResource Include="Resources\HS-section-header.png" />
+    <BundleResource Include="Resources\HS-section-header%402x.png" />
+    <BundleResource Include="Resources\HSChatBubbleBlue.png" />
+    <BundleResource Include="Resources\HSChatBubbleBlue%402x.png" />
+    <BundleResource Include="Resources\HSChatBubbleWhite.png" />
+    <BundleResource Include="Resources\HSChatBubbleWhite%402x.png" />
+    <BundleResource Include="Resources\HSConfirmBox.png" />
+    <BundleResource Include="Resources\HSConfirmBox%402x.png" />
+    <BundleResource Include="Resources\HSTutorial.png" />
+    <BundleResource Include="Resources\HSTutorial%402x.png" />
+    <BundleResource Include="Resources\HSTutorialiPad.png" />
+    <BundleResource Include="Resources\HSTutorialiPad%402x.png" />
+    <BundleResource Include="Resources\de.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\en.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\es.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\fr.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\it.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\ja.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\ko.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\nl.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\pt.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\ru.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\tr.lproj\HelpshiftLocalizable.strings" />
+    <BundleResource Include="Resources\zh-Hans.lproj\HelpshiftLocalizable.strings" />
     <BundleResource Include="Resources\HelpshiftConfig.plist" />
   </ItemGroup>
 </Project>

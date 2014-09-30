@@ -9,19 +9,19 @@
 		<key>Bold font name</key>
 		<string></string>
 		<key>Background color</key>
-		<string></string>
+		<string>383838</string>
 		<key>Background image</key>
 		<string></string>
 		<key>Content background color</key>
-		<string></string>
+		<string>1a1a1a</string>
 		<key>Separator line color</key>
-		<string></string>
+		<string>404040</string>
 		<key>Text color</key>
-		<string></string>
+		<string>fafafa</string>
 		<key>Contact us button color</key>
-		<string></string>
+		<string>3396ff</string>
 		<key>Cell selection color</key>
-		<string></string>
+		<string>444A4B</string>
 	</dict>
 	<key>Navigation Bar</key>
 	<dict>
@@ -30,11 +30,11 @@
 		<key>Font size</key>
 		<string></string>
 		<key>Title color</key>
-		<string></string>
+		<string>ffffff</string>
 		<key>Bar button text color</key>
-		<string></string>
+		<string>3396ff</string>
 		<key>Background color</key>
-		<string></string>
+		<string>1f1f1f</string>
 		<key>Text shadow color (iOS 6)</key>
 		<string></string>
 		<key>Background image (iOS 6)</key>
@@ -45,9 +45,9 @@
 	<key>Search Bar</key>
 	<dict>
 		<key>Background color</key>
-		<string></string>
+		<string>000000</string>
 		<key>Button text color (iOS 6)</key>
-		<string></string>
+		<string>fafafa</string>
 	</dict>
 	<key>Table Section Header</key>
 	<dict>
@@ -56,40 +56,40 @@
 		<key>Font size</key>
 		<string></string>
 		<key>Text color</key>
-		<string></string>
+		<string>b2b2b2</string>
 	</dict>
 	<key>FAQ and Chat Footer</key>
 	<dict>
 		<key>Chat send button color</key>
-		<string></string>
+		<string>3396ff</string>
 		<key>FAQ yes button color</key>
-		<string></string>
+		<string>3396ff</string>
 		<key>FAQ no button color</key>
-		<string></string>
+		<string>cca300</string>
 	</dict>
 	<key>Message Retry Badge</key>
 	<dict>
 		<key>Text color</key>
-		<string></string>
+		<string>000000</string>
 		<key>Border color (iOS 6)</key>
 		<string></string>
 		<key>Background color</key>
-		<string></string>
+		<string>ffcc00</string>
 	</dict>
 	<key>Conversation Resolution</key>
 	<dict>
 		<key>Background color</key>
-		<string></string>
+		<string>373737</string>
 		<key>Text color</key>
-		<string></string>
+		<string>9f9f9f</string>
 		<key>Rating star color</key>
 		<string></string>
 		<key>Start new conversation button color</key>
-		<string></string>
+		<string>dd9756</string>
 		<key>Yes button color</key>
-		<string></string>
+		<string>1fbe23</string>
 		<key>No button color</key>
-		<string></string>
+		<string>ae64aa</string>
 	</dict>
 </dict>
 </plist>
